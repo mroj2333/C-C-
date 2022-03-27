@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "学习代码", "学习代码.vcxproj", "{D619C729-29EB-46CA-BDAA-A92A4E4FBAD6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C文件", "..\C文件\C文件.vcxproj", "{0EAF43E5-2D4F-4190-B8F2-AD177ADF8943}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{D619C729-29EB-46CA-BDAA-A92A4E4FBAD6}.Release|x64.Build.0 = Release|x64
 		{D619C729-29EB-46CA-BDAA-A92A4E4FBAD6}.Release|x86.ActiveCfg = Release|Win32
 		{D619C729-29EB-46CA-BDAA-A92A4E4FBAD6}.Release|x86.Build.0 = Release|Win32
+		{0EAF43E5-2D4F-4190-B8F2-AD177ADF8943}.Debug|x64.ActiveCfg = Debug|x64
+		{0EAF43E5-2D4F-4190-B8F2-AD177ADF8943}.Debug|x64.Build.0 = Debug|x64
+		{0EAF43E5-2D4F-4190-B8F2-AD177ADF8943}.Debug|x86.ActiveCfg = Debug|Win32
+		{0EAF43E5-2D4F-4190-B8F2-AD177ADF8943}.Debug|x86.Build.0 = Debug|Win32
+		{0EAF43E5-2D4F-4190-B8F2-AD177ADF8943}.Release|x64.ActiveCfg = Release|x64
+		{0EAF43E5-2D4F-4190-B8F2-AD177ADF8943}.Release|x64.Build.0 = Release|x64
+		{0EAF43E5-2D4F-4190-B8F2-AD177ADF8943}.Release|x86.ActiveCfg = Release|Win32
+		{0EAF43E5-2D4F-4190-B8F2-AD177ADF8943}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
