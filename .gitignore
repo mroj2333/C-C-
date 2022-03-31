@@ -31,3 +31,5 @@
 *.out
 *.app
 /学习代码/.vs/学习代码/v17/Browse.VC.opendb
+/学习代码/.vs/学习代码/v17/ipch/AutoPCH/c6a19ac753867c68
+/.vs/C-C-/v17/Browse.VC.db
